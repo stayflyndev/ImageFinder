@@ -1,1 +1,4 @@
 # ImageFinder
+
+
+THIS IS JUST REACT SETUP
